@@ -16,15 +16,15 @@
 
 <h3>Expertise:</h3>
 <p align="left">
-🔄 Redux State Management: Efficiently manage app state with Redux for smoother data flow. <br>
-🎨 Responsive UI: Create visually appealing, user-friendly interfaces that adapt across devices. <br>
-🎭 Animations: Enhance user experience with engaging animations and transitions. <br>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />  Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more. <br>
-📞 RTC SDK: Integrate RTC SDK for audio/video calling and chat features. <br>
-📱 Play Store Publishing: Prepare and optimize app for Google Play Store. <br>
-🔌 Socket.IO Integration: Implement Socket.IO for real-time communication and event-based messaging. <br>
-🔗 REST API Integration: Integrate REST APIs for seamless data exchange with external services. <br>
-💾 Local Storage: Implement local storage for efficient data management on the device. <br>
+🔄 Redux State Management: <h4>Efficiently manage app state with Redux for smoother data flow. </h4><br>
+🎨 Responsive UI: <h4>Create visually appealing, user-friendly interfaces that adapt across devices. </h4><br>
+🎭 Animations: <h4>Enhance user experience with engaging animations and transitions. </h4><br>
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />  Firebase Integration: <h4>Leverage Firebase for push notifications, real-time database, authentication, and more. </h4><br>
+📞 RTC SDK: <h4>Integrate RTC SDK for audio/video calling and chat features. </h4><br>
+📱 Play Store Publishing: <h4>Prepare and optimize app for Google Play Store. </h4><br>
+🔌 Socket.IO Integration: <h4>Implement Socket.IO for real-time communication and event-based messaging. </h4><br>
+🔗 REST API Integration: <h4>Integrate REST APIs for seamless data exchange with external services. </h4><br>
+💾 Local Storage: <h4>Implement local storage for efficient data management on the device.</h4> <br>
 </p>
 
 
