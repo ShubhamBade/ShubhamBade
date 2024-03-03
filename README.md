@@ -9,19 +9,22 @@
 <p align="left">
 <a href="https://linkedin.com/in/shubham-bade-928b95217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-bade-928b95217" height="30" width="40" /></a>
 <a href="https://instagram.com/crazy_dev_shubzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazy_dev_shubzz" height="30" width="40" /></a>
+<a href="https://github.com/ShubhamBade" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-username" height="30" width="40" />
+  </a>
 </p>
 
-<h3>Work:</h3>
+<h3>Expertise:</h3>
 <p align="left">
-🔄 Redux State Management: Efficiently manage app state with Redux for smoother data flow. <br><br>
-🎨 Responsive UI: Create visually appealing, user-friendly interfaces that adapt across devices. <br><br>
-🎭 Animations: Enhance user experience with engaging animations and transitions. <br><br>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />  Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more. <br><br>
-📞 RTC SDK: Integrate RTC SDK for audio/video calling and chat features. <br><br>
-📱 Play Store Publishing: Prepare and optimize app for Google Play Store. <br><br>
-🔌 Socket.IO Integration: Implement Socket.IO for real-time communication and event-based messaging. <br><br>
-🔗 REST API Integration: Integrate REST APIs for seamless data exchange with external services. <br><br>
-💾 Local Storage: Implement local storage for efficient data management on the device. <br><br>
+🔄 Redux State Management: Efficiently manage app state with Redux for smoother data flow. <br>
+🎨 Responsive UI: Create visually appealing, user-friendly interfaces that adapt across devices. <br>
+🎭 Animations: Enhance user experience with engaging animations and transitions. <br>
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />  Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more. <br>
+📞 RTC SDK: Integrate RTC SDK for audio/video calling and chat features. <br>
+📱 Play Store Publishing: Prepare and optimize app for Google Play Store. <br>
+🔌 Socket.IO Integration: Implement Socket.IO for real-time communication and event-based messaging. <br>
+🔗 REST API Integration: Integrate REST APIs for seamless data exchange with external services. <br>
+💾 Local Storage: Implement local storage for efficient data management on the device. <br>
 </p>
 
 
