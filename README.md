@@ -11,26 +11,16 @@
 <a href="https://instagram.com/crazy_dev_shubzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazy_dev_shubzz" height="30" width="40" /></a>
 </p>
 
-<h3>Work</h3>
+<h3>Work:</h3>
 <p align="left">
-📱 React Native Framework: Leveraging the flexibility and efficiency of React Native to develop a responsive, high-performance mobile application.
-
 🔄 Redux State Management: Utilizing Redux to efficiently manage the application's state, ensuring smooth data flow and predictable behavior.
-
 🎨 Responsive UI: Crafting a visually appealing and user-friendly interface that adapts seamlessly to different screen sizes and orientations.
-
 🎭 Animations: Enhancing the user experience with engaging animations and transitions, making the application feel more dynamic and intuitive.
-
 📩 Firebase Push Notifications: Implementing Firebase Cloud Messaging (FCM) to enable push notifications, keeping users informed and engaged.
-
 🔗 Realtime Database: Utilizing Firebase Realtime Database to store and sync application data in real-time, ensuring a seamless user experience.
-
 🔐 Authorization: Implementing authentication and authorization using Firebase Authentication, ensuring secure access to the application's features.
-
 📅 Events: Incorporating event handling functionality, allowing users to create, manage, and participate in events within the application.
-
 📞 RTC SDK: Integrating Real-Time Communication (RTC) capabilities using a suitable SDK, enabling features like audio/video calling or chat.
-
 📱 Play Store Publishing: Preparing the application for deployment on the Google Play Store, ensuring compliance with store guidelines and optimizing for discoverability.
 </p>
 <h3 align="left">Languages and Tools:</h3>
