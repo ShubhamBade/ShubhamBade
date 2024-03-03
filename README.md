@@ -16,7 +16,7 @@
 🔄 Redux State Management: Efficiently manage app state with Redux for smoother data flow. <br><br>
 🎨 Responsive UI: Create visually appealing, user-friendly interfaces that adapt across devices. <br><br>
 🎭 Animations: Enhance user experience with engaging animations and transitions. <br><br>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" width="50" height="50" />Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more. <br><br>
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="30" width="40" />Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more. <br><br>
 📞 RTC SDK: Integrate RTC SDK for audio/video calling and chat features. <br><br>
 📱 Play Store Publishing: Prepare and optimize app for Google Play Store. <br><br>
 🔌 Socket.IO Integration: Implement Socket.IO for real-time communication and event-based messaging. <br><br>
