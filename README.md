@@ -16,17 +16,17 @@
 
 <h3>Expertise:</h3>
 <p align="left">
-🔄 <strong>Redux State Management:</strong> Efficiently manage app state with Redux for smoother data flow.<br>
-🎨 <strong>Responsive UI:</strong> Create visually appealing, user-friendly interfaces that adapt across devices.<br>
-🎭 <strong>Animations:</strong> Enhance user experience with engaging animations and transitions.<br>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />
-<strong>Firebase Integration:</strong> Leverage Firebase for push notifications, real-time database, authentication, and more.<br>
-📞 <strong>RTC SDK:</strong> Integrate RTC SDK for audio/video calling and chat features.<br>
-📱 <strong>Play Store Publishing:</strong> Prepare and optimize app for Google Play Store.<br>
-🔌 <strong>Socket.IO Integration:</strong> Implement Socket.IO for real-time communication and event-based messaging.<br>
-🔗 <strong>REST API Integration:</strong> Integrate REST APIs for seamless data exchange with external services.<br>
-💾 <strong>Local Storage:</strong> Implement local storage for efficient data management on the device.<br>
+🔄 Redux State Management: Efficiently manage app state with Redux for smoother data flow.<br>
+🎨 Responsive UI: Create visually appealing, user-friendly interfaces that adapt across devices.<br>
+🎭 Animations: Enhance user experience with engaging animations and transitions.<br>
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Icon" height="20" width="20" />  Firebase Integration: Leverage Firebase for push notifications, real-time database, authentication, and more.<br>
+📞 RTC SDK: Integrate RTC SDK for audio/video calling and chat features.<br>
+📱 Play Store Publishing: Prepare and optimize app for Google Play Store.<br>
+🔌 Socket.IO Integration: Implement Socket.IO for real-time communication and event-based messaging.<br>
+🔗 REST API Integration: Integrate REST APIs for seamless data exchange with external services.<br>
+💾 Local Storage: Implement local storage for efficient data management on the device.<br>
 </p>
+
 
 
 
